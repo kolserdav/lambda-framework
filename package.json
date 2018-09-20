@@ -1,0 +1,19 @@
+{
+  "name": "lambda-frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolserdav/lambda-framework.git"
+  },
+  "author": "Sergey <serega12101983@gmail.com> (https://github.com/kolserdav)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolserdav/lambda-framework/issues"
+  },
+  "homepage": "https://github.com/kolserdav/lambda-framework#readme"
+}
